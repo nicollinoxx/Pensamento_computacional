@@ -1,5 +1,5 @@
 # Pensamento_computacional
 
-#Nome: Nícolas Amaral
-#Turma: A
+Nome: Nícolas Amaral \
+Turma: A
 
