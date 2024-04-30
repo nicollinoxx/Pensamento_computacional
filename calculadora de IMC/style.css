@@ -1,0 +1,35 @@
+body {
+  margin: 3rem;
+  font-family: sans-serif;
+}
+
+input {
+  margin-bottom: 10px;
+  padding: 8px;
+  border-radius: 6px;
+  width: 90%;
+}
+
+button {
+  border-radius: 6px;
+  padding: 6px;
+}
+
+label {
+  color: white;
+  font-size: 18px;
+}
+
+.bg-indigo {
+  padding: 20px;
+  border-radius: 6px;
+  background-color: indigo;
+  width: 20%;
+  margin: auto;
+}
+
+p {
+  color: red;
+  margin-left: 40%;
+  font-size: 18px
+}
